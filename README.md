@@ -1,36 +1,95 @@
-<h1 align="center">Yoo, I'm Febristira 👋</h1>
+ <h1 align="center">Hey, I'm Febristira Ridzky 👋</h1>
 
 <p align="center">
-  💻 Programmer | 🚀 Fullstack Enthusiast | 🤖 AI & Automation Fan
+  <samp>Fullstack Developer · IT Enthusiast · Automation Builder</samp>
+</p>
+
+<p align="center">
+  <a href="https://devantary.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-DEVANTARY-722F37?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=febrizz&style=for-the-badge&color=722F37&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-#### 🚀 About Me
-- 🔭 Currently working on: Supply Chain Managament Apps  
-- 🌱 Learning Java, Laravel, React Js, Python and AI tools  
-- 💡 I love building systems that **make life easier**
-- 🧠 Motto: _"Code smart, live chill"_  
+### `whoami`
+
+```javascript
+const febristira = {
+    role: "Fullstack Developer",
+    focus: ["Web Development", "Business Systems", "Automation"],
+    currentlyBuilding: "Supply Chain Management Systems",
+    learning: ["Java", "React", "Python", "AI Engineering"],
+    philosophy: "Code smart, live chill."
+};
+```
+
+I build practical software that solves real-world problems. From business management systems to automation tools, I enjoy turning complex workflows into simple, efficient experiences.
+
+- 🧑‍💻 Building business applications with Laravel and React
+- ⚙️ Exploring AI-powered tools and workflow automation
+- 🎓 Studying Informatics Engineering
+- 🏴‍☠️ Always building something new with Devantary
 
 ---
 
-### 🛠 My Code Skill
+### `01 / TECH STACK`
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### `02 / GITHUB ANALYTICS`
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,react,java,mysql,python,docker,figma&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=febrizz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C08497&icon_color=C08497&text_color=E6EDF3&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrizz&layout=compact&hide_border=true&bg_color=0D1117&title_color=C08497&text_color=E6EDF3&langs_count=6" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=febrizz&hide_border=true&background=0D1117&ring=C08497&fire=E8A0BF&currStreakLabel=C08497&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
+</p>
+
+---
+
+### `03 / CURRENTLY EXPLORING`
+
+- **Fullstack Engineering** — building reliable, maintainable web applications.
+- **AI & Automation** — making repetitive work smarter and faster.
+- **System Design** — creating software that scales with real business needs.
+
+---
+
+### `04 / LET'S CONNECT`
+
+<p>
+  <a href="https://devantary.com">
+    <img src="https://img.shields.io/badge/Website-722F37?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/febrizz">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:febristira@email.com">
+    <img src="https://img.shields.io/badge/Email-8B5E83?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=febrizz&show_icons=true&theme=tokyonight" alt="stats" />
+<p align="center">
+  <samp>Building useful things, one commit at a time.</samp>
+  <br />
+  <sub>Designed with ☕ and a little bit of curiosity.</sub>
 </p>
-
----
-
-### 📫 Contact Me
-- 📧 Email: febristira@email.com  
-- 🌐 Website: [devantary.com](https://devantary.com)  
-- 🧠 Notion Projects: *available on request*
