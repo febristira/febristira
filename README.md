@@ -56,12 +56,8 @@ I build practical software that solves real-world problems. From business manage
 ### `02 / GITHUB ANALYTICS`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=febrizz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C08497&icon_color=C08497&text_color=E6EDF3&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrizz&layout=compact&hide_border=true&bg_color=0D1117&title_color=C08497&text_color=E6EDF3&langs_count=6" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=febrizz&hide_border=true&background=0D1117&ring=C08497&fire=E8A0BF&currStreakLabel=C08497&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
+  <img src="https://github-readme-stats.vercel.app/api?username=febrizz&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrizz&layout=compact&hide_border=true&theme=tokyonight" height="165" />
 </p>
 
 ---
